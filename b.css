@@ -1,0 +1,115 @@
+
+
+#h-link {
+    margin-left: 10%;
+}
+
+#s-by {
+    background: transparent;
+    color: black;
+    border: none;
+}
+
+#fourth-link {
+    color: rgb(36, 34, 34);
+    font-size: 0.9em;
+    font-weight: 550;
+}
+#the-p {
+    color: rgb(36, 34, 34);
+    font-weight:500;
+    margin-top: 6%;
+}
+#third-link {
+    color: rgb(36, 34, 34);
+    font-size: 0.9em;
+    font-weight: 550;
+}
+
+#col {
+    margin-top: 0;
+}
+
+
+#b-p {
+    margin-top: 9%;
+} 
+
+#l-but {
+    border-radius: 9px;
+    padding: 7px 17px;
+    background: rgb(17, 17, 17);
+    color: white;
+}
+
+
+.container {
+    margin-top: 5%;
+}
+#h {
+    font-size: 3.9em;
+    
+}
+
+#sec-link {
+    color: rgb(36, 34, 34);
+    font-size: 0.9em;
+    font-weight: 550;
+    
+}
+
+#n {
+    color: black;
+    font-weight: bold;
+    font-size: 1.8em;
+    margin-left: 2%;
+}
+
+#re:hover {
+    background-color: rgb(82, 82, 82);
+    color: white;
+}
+
+#f-link {
+    color: black;
+    font-size: 0.9em;
+    font-weight: 550;
+  
+}
+
+body {
+    color: black;
+}
+#log {
+    background: transparent;
+    border: none;
+}
+#f-d-link {
+    margin-left: -20%;
+}
+
+#re {
+    padding: 6px 17px;
+    border-radius: 10px;
+    background: white;
+    color: rgb(36, 34, 34);
+    border-color: rgb(36, 34, 34);
+    border-width: 1.9px;
+    border-radius: 12px;
+    margin-right: 2%;
+    margin-left: 1%;
+}
+
+
+#s-d-link {
+    margin-left: -40%;
+}
+ 
+#t-d-link {
+    margin-left: -40%;
+}
+ 
+
+
+
+
