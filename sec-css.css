@@ -1,0 +1,123 @@
+.nav-link {
+    font-weight: 500;
+    font-size: 1.1em;
+    color: rgb(51, 51, 51);
+    margin-left: 5%;
+    transition: all 300ms ease-out;
+}
+
+#first-para {
+    font-weight: bold;
+    margin-top: 5%;
+}
+
+.card-text {
+    font-weight: 500;
+}
+
+.p {
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+#first-h1 {
+    font-size: 3.5em;
+    font-weight: bold;
+}
+
+#target-nav .nav-link:hover {
+    background-color: white;
+    padding: 7px 8px;
+}
+  
+
+
+#but {
+    padding: 20px 45px;
+    background-color: rgb(235, 207, 172);
+    border: none;
+    margin-top: 3%;
+    font-weight: bold;
+    color: rgb(53, 52, 52);
+    transition: all 300ms ease-in;
+    margin-bottom: 12%;
+}
+
+#but:hover {
+    background-color: white;
+}
+.card {
+    width: 100%; 
+    height: 100%;
+     
+   
+       
+}
+#next-p {
+    font-size: 1.1em;
+    font-weight: 500;
+}
+#const-but:hover {
+color: white;
+background-color: rgb(37, 37, 37);
+}
+#const-but {
+    padding: 21px 55px;
+    color: rgb(37, 37, 37);
+    font-weight: bold;
+    background-color: rgb(233, 233, 233);
+    border: none;
+    outline: none;
+    margin-top: 5%;
+    transition: all 300ms ease-in;
+}
+
+@media(max-width:600px) {
+    .card {
+        margin-left: 20%;
+    }
+
+    #main-svg {
+        margin-left: -35%;
+    }
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.7em;
+    font-weight: 600;
+    margin-right: 15%;
+    margin-left: 5%;
+}
+
+.container {
+    margin-top: 9%;
+}
+#main-svg {
+    margin-left: 35%;
+}
+.svg {
+    height:53px;
+    background-color: white;
+    padding: 15px 15px;
+    border-radius: 13px;
+}
+
+#n {
+   background-image: url('background.jpg');
+   background-size: cover;
+}
+
+.container-fluid {
+    padding: 10px 10px;
+    background-color: rgb(241, 241, 241);
+    /* position: fixed;
+    top: 0; */
+}
+
+#nav {
+    background-color: rgb(241, 241, 241);
+    margin: 0;
+    /* position: fixed;
+    top: 0; */
+}
+
