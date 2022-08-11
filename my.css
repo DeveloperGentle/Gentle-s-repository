@@ -1,0 +1,246 @@
+h1 {
+    color: rgb(85, 85, 252);
+    font-weight: 650;
+    font-size: 4em;
+    margin: 0;
+    padding:0;
+    letter-spacing: 0px;
+}
+#first-div {
+    width: 45%;
+    margin-left: 30px;
+}
+
+input {
+    outline: none;
+}
+
+/* #share::after {
+content: "\a";
+white-space: pre;
+} */
+
+#second-div {
+    margin-left: 80px;
+}
+
+@media(max-width:700px) {
+
+   
+#second-div {
+    margin-left: 0;
+    align-self: center;
+}
+
+    /* #share::after {
+        
+        white-space: nowrap;
+        } */
+#f {
+    text-align: center;
+    margin-left: -25px;
+}
+
+#main-p {
+    margin-left: 10px;
+}
+
+#in::after {
+white-space: nowrap;
+}
+      
+
+        #first-div {
+           
+            margin-bottom: 30px;
+            width: 100%;
+            margin-left: initial;
+        }
+
+    #main-division{
+    margin-top: 105px;
+   display: flex;
+   flex-direction: column;
+   flex-wrap: wrap;
+   margin-left: 10%;
+
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}}
+
+    
+   
+    
+
+
+::placeholder {
+    font-size:1.1em;
+    color: #b0a8a8;
+}
+
+body {
+
+    background-color: #f3f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+input:focus {
+    border: 1px solid rgb(77, 77, 236);
+}
+
+#main-division{
+    margin-top: 105px;
+   display: flex;
+   flex-direction: row;
+   margin-left: 7%;
+ 
+
+   
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.material-symbols-outlined {
+ padding: 16px 16px;
+    transition: all 300ms ease-out;
+    background-color: transparent;
+
+    border-radius:17px;
+    position: absolute;
+}
+
+.material-symbols-outlined:hover {
+
+    background-color: #efe8e8;
+    border: none;
+    border-radius:17px;
+    padding: 16px 16px;
+    position: absolute;
+}
+#after-footer {
+    margin-left: 40px;
+}
+#create:hover {
+    background-color: rgb(9, 155, 9);
+}
+
+#after-footer {
+    color: #656060;
+}
+#after-footer a {
+    text-decoration:none;
+    color: #736b6b;
+    margin-left: 40px;
+}
+footer {
+    margin-top: 30px;
+    margin-left: 35px;
+}
+#sec-link {
+    color: black;
+    text-decoration: none;
+}
+
+#f-link:hover {
+    text-decoration: underline;
+}
+
+#sec-link:hover {
+    text-decoration: underline;
+}
+
+#main-p {
+    
+    font-size:1.7em;
+    font-weight: 500;
+}
+
+#form-div {
+    height: max-content;
+    width: max-content;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: rgba(0,0,0,0.24) 0px 3px 8px;
+    background-color: white;
+}
+
+
+form {
+    width: max-content;
+    height: max-content;
+    padding: 15px 15px;
+}
+input[type='password'] {
+    padding-right: 40px;
+}
+input[type='text'] {
+    padding-right: 40px;
+}
+
+input {
+    width: 332.20px;
+    border: 0.5px solid rgb(207, 195, 195);
+    padding: 16px 16px;
+    border-radius: 5px;
+    font-size: 0.9em;
+
+}
+
+hr {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-bottom: 0.5px solid rgb(207, 195, 195);
+    border-top: none;
+    margin-left:4px ;
+    margin-right: 4px;
+}
+
+
+
+#f-link {
+
+text-decoration: none;
+color: rgb(78, 78, 252);
+font-size: 1em;
+text-align: center;
+
+}
+#after-footer a:hover {
+text-decoration: underline;
+}
+#create {
+   margin-left: 90px;
+    text-align: center;
+    background-color: rgb(33, 194, 33);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding:13px 18px;
+    font-weight: bold;
+    font-size: 1.1em;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: background 200ms ease-out;
+}
+
+#login:hover {
+    background-color: rgb(79, 79, 231);
+}
+#login {
+width:389.5px;
+    font-weight: bold;
+    cursor:pointer;
+    
+    color: white;
+
+    background-color: rgb(85, 85, 252);
+    padding: 14px 137px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1.2em;
+    transition: background 100ms ease-out;
+}
+
