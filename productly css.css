@@ -1,0 +1,226 @@
+#links {
+    margin-left: 35%;
+    margin-right: -50%;
+    font-size: 1em;
+    font-weight: 500;
+    opacity: 0.9;
+}
+
+.nav-link {
+    transition:all 100ms ease-in;
+}
+
+#re:hover {
+    color: rgb(245, 162, 8);
+}
+#re {
+    transition: all 150ms ease-in;
+}
+#f-h1 {
+    font-weight: 750;
+    font-size: 3em;
+    
+}
+
+#cont-btu {
+    padding: 15px 30px;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+    background-color: rgb(233, 153, 4);
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    margin-top: 2%;
+}
+
+#the-sp {margin-left: 11% ;}
+
+#naa {
+    position: fixed;
+    top: 0;
+    background-color: rgb(246, 246, 246);
+    z-index: +1;
+}
+#con-f {
+    position: fixed;
+    top: 0;
+    background-color: rgb(246, 246, 246);
+    padding: 45px 20px;
+    z-index: +1;
+}
+
+
+.ch-m {
+    margin-right: 4%;
+}
+
+.p-h4 {
+    font-weight: 500;
+    margin-top: 6%;
+    font-size: 1.07em;
+    color: rgb(66, 66, 66);
+}
+
+.h5s {
+    font-weight: bold;
+}
+
+.b-p {
+    font-weight: 500;
+
+    font-size: 1.07em;
+    color: rgb(66, 66, 66);
+}
+
+#sec-sign-but {
+    padding: 11px 30px;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+    background-color: rgb(233, 153, 4);
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+}
+
+#s-h4 {
+    font-weight: bold;
+}
+
+#get-but {
+    padding: 15px 45px;
+    color: white;
+    font-weight: bold;
+    opacity: 1;
+    background-color: rgb(240, 158, 6);
+    font-size: 1.1em;
+    border: none;
+} 
+
+#f-div {
+    margin-top: 5%;
+}
+
+#fi-con {
+    margin-top: 10%;
+}
+
+#f-pa {
+    font-weight: 450;
+    font-size: 1.4em;
+    color: rgb(66, 66, 66);
+    margin-top: 5%;
+}
+
+#pri:hover {
+    color: rgb(245, 162, 8);
+}
+#pr:hover {
+    color: rgb(245, 162, 8);
+}
+#cu:hover {
+    color: rgb(245, 162, 8);
+}
+#sign-in {
+    padding: 11px 30px;
+    border: 1px solid rgb(192, 192, 192);
+    border-radius: 5px;
+    font-weight: bold;
+    opacity: 0.9;
+}
+
+.m-a:hover {
+    color: rgb(245, 162, 8);
+}
+
+.m-a {
+    text-decoration: none;
+      color: rgb(66, 66, 66);
+      transition: all 150ms ease-in;
+}
+#nav-item {
+    margin-left: 7%;
+}
+.foo-link:hover {
+    color: rgb(245, 162, 8);
+}
+.foo-link {
+    text-decoration: none;
+    color: rgb(66, 66, 66);
+    font-weight: 500;
+    margin-top: 7%;
+    transition: all 150ms ease-in;
+}
+#email {
+    padding: 12px 20px;
+}
+#s-up {
+    color: white;
+    font-weight: bold;
+    margin-right: 5%;
+    margin-left: 2%;
+    padding: 12px 30px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(243, 160, 6);
+}
+
+
+
+#s-up-now {
+    color: white;
+    font-weight: bold;
+    padding: 7px 25px;
+    background-color: rgb(238, 157, 6);
+    border: none;
+  
+}
+
+@media(max-width:600px) {
+    #s-up {
+        font-weight: bold;
+        margin-right: 0%;
+        margin-left: 2%;
+        padding: 12px 30px;
+        border: none;
+        border-radius: 5px;
+    }
+
+   
+
+    .foo-h {
+        margin-top: 4%;
+    }
+
+    
+
+    
+    #foo-div {
+        text-align: center;
+    }
+    #nav-item {
+        margin-left: 0%;
+    }
+    
+    #the-sp {
+        margin-left: 0% ;
+    }
+
+#centered-div {
+        text-align: center;
+    }
+
+}
+
+
+@media(max-width:1300px) {
+    #links {
+        margin-left: 0%;
+        margin-right: 0%;
+    }
+
+    .foo-h {
+        margin-top: 4%;
+    }
+}
